@@ -13,8 +13,9 @@
   
   <br><br>
   
-  <a href="[https://ccohene13-cmd.github.io/](https://ccohene13-cmd.github.io/ccohene13-cmd/)">
-    <strong>¡Visita mi página web! </strong>
+   <a href="https://ccohene13-cmd.github.io/ccohene13-cmd/">
+
+  <strong>¡Visita mi página web! </strong>
   </a>
 
   ---
