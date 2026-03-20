@@ -1,10 +1,19 @@
-### ¡Hola! Soy calbagata 👋
-
-### 👋 ¡Hola! Soy ccohene13-cmd
-
-💻 **Junior Developer** Y solo eso 
+<div align="center">
+  
+ ¡Bienvenido a mi perfil! 
+  
+  <!-- GIF DE ADO (LO PRIMERO) -->
   <img src="https://media.tenor.com/pRvX8J_aR-sAAAAC/ado-ushite-uso.gif" width="300">
+  
+  <!-- TU PRESENTACIÓN -->
+  ## ✨ Hola, soy calbagata ✨
+  
+  ### 💻 Junior Developer
+  
 
+  ---
+  
+</div>
 ## 🚀 Tecnologías que uso
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
