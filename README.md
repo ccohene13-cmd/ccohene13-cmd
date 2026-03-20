@@ -2,7 +2,7 @@
   
  ¡Bienvenido a mi perfil! 
   
-  <!-- GIF DE ADO (LO PRIMERO) -->
+
   <img src="https://media1.tenor.com/m/-I8LVTImGiIAAAAC/ado-usshi.gif" width="400">
   
   <!-- TU PRESENTACIÓN -->
@@ -10,7 +10,7 @@
   
   ### 💻 Junior Developer
   
-
+ <img src="https://media1.tenor.com/m/-I8LVTImGiIAAAAC/ado-usshi.gif" width="400">
   ---
   
 </div>
