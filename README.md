@@ -2,4 +2,4 @@
 
 Bienvenido a mi perfil de GitHub.
 
-![Snake animation](https://github.com/calbagata/calbagata/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/calbagata/calbagata/output/github-contribution-grid-snake.svg)
