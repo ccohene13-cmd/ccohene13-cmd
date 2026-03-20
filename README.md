@@ -2,7 +2,9 @@
 
 ### 👋 ¡Hola! Soy ccohene13-cmd
 
-💻 **Junior Developer** Y solo eso ![Ado](https://media.tenor.com/YvH-JRsuN0gAAAAC/ado-cute.gif)
+💻 **Junior Developer** Y solo eso 
+![Ado](https://media.tenor.com/YvH-JRsuN0gAAAAC/ado-cute.gif)
+![Ado](https://media.tenor.com/2G1QJfqO-xoAAAAC/ado-singer.gif)
 
 ## 🚀 Tecnologías que uso
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
