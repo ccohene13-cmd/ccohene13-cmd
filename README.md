@@ -13,7 +13,7 @@
   
   <br><br>
   
-  <a href="https://ccohene13-cmd.github.io/paginita/">
+  <a href="https://ccohene13-cmd.github.io/">
     <strong>¡Visita mi página web! </strong>
   </a>
 
