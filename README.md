@@ -2,7 +2,7 @@
   
  ¡Bienvenido a mi perfil! 
 
- <img src="https://media1.tenor.com/m/bSmCiVJXXysAAAAd/ado-usseewa.gif" width="400" height="1200">
+ <img src="https://media1.tenor.com/m/bSmCiVJXXysAAAAd/ado-usseewa.gif" width="12200" height="1200">
 
   
   <!-- TU PRESENTACIÓN -->
